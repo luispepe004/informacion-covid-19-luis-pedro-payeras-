@@ -1,0 +1,50 @@
+#principal{
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	border: 0px solid #800;
+	background-color: #F7DC6F;
+	margin: auto;
+
+}
+
+
+header{
+	width: 900px;
+	height: 100px;
+text-align:  center;
+	border: 0px solid #000;
+
+}
+
+#logo{
+	width: 900px;
+    height: 100px;
+    color: 470B4e;
+    text-align: center;
+    border: 0px solid #fff;
+    float: center; font-family: sans-serif;
+
+
+}
+
+
+ .titulo{
+   margin-top: 50px;
+   text-align: center;
+   font-size: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
